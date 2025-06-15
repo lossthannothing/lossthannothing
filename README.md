@@ -1,16 +1,18 @@
-## Hi there 👋
+## Langs & Framework
 
-<!--
-**lossthannothing/lossthannothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Use div tag for good format and it will show them in one line, without div tag it will be displayed on multiple lines -->
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<div>
 
-Here are some ideas to get you started:
+## Preferred tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## HTML
+<!-- Use div tag for good format and it will show them in one line, without div tag it will be displayed on multiple lines -->
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
+<div>
